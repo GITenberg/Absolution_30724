@@ -1,0 +1,36 @@
+_repo: Absolution_30724
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Raahauge, H.
+    gutenberg_agent_id: '34775'
+    url: http://www.gutenberg.org/2009/agents/34775
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viebig, Clara
+    aliases:
+    - Fibich, Klara
+    - Viebig, Klara
+    - Cohn, Clara Viebig
+    birthdate: 1860
+    deathdate: 1952
+    gutenberg_agent_id: '34774'
+    url: http://www.gutenberg.org/2009/agents/34774
+    wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
+description: ''
+gutenberg_issued: '2009-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Absolution
+url: http://www.gutenberg.org/ebooks/30724
